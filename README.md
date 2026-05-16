@@ -18,7 +18,7 @@ The project contains the following files/folders:
    - Bug , mobile testing, and API testing screenshots
 
 3. Automation Code
-   - Selenium automation scripts
+   - Selenium automation scripts in src/test/java SauceDemoTest.java
   
 4. Postman API Testing
    - QA assignment collection JSON file
