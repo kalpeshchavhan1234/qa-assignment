@@ -5,11 +5,9 @@
     <classes>
       <class name="com.qa.tests.SauceDemoTest">
         <methods>
-          <include name="verifyAddProductToCart"/>
           <include name="closeBrowser"/>
           <include name="verifySuccessfulCheckout"/>
           <include name="setup"/>
-          <include name="verifyValidLogin"/>
         </methods>
       </class> <!-- com.qa.tests.SauceDemoTest -->
     </classes>
