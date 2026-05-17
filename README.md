@@ -44,3 +44,31 @@ The project contains the following files/folders:
   - PUT
   - DELETE
 - Attached API testing screenshots in the screenshots folder.
+ 
+
+
+## Prerequisites
+
+Make sure the following are installed:
+
+- Java
+- Maven
+- Chrome Browser
+- Selenium and TestNG dependencies
+
+All required dependencies are available in the `pom.xml` file.
+
+## How to Run the Project
+
+1. Clone the repository
+
+git clone <https://github.com/kalpeshchavhan1234/qa-assignment.git>
+
+2. Open the project in Eclipse or IntelliJ IDEA
+
+3. Run the project using terminal/cmd:
+
+```bash
+mvn test
+```
+Or run SauceDemoTest.java directly from the IDE.
